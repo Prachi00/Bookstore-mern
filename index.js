@@ -12,7 +12,7 @@ const port = process.env.PORT || 5500;
 
 mongoose.set("useFindAndModify", false);
 mongoose.connect(
-  "mongodb+srv://prachirai:QpafphYzrS6bgrSu@cluster1.srrdm.mongodb.net/test",
+  process.env.DB_LINK,
   { useNewUrlParser: true },
   () => console.log("DB connected")
 );
