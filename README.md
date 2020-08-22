@@ -1,4 +1,5 @@
 ### A full stack application with MERN
+[Live Demo](https://mighty-river-31700.herokuapp.com)
 
 #### Client-side
 
@@ -21,11 +22,8 @@
 - Bcryptjs
 - Multer
 
-Note: This project is still open
 
 #### Description
 
-A bit of Bookstore with real API. The Main functions allows us to add and remove book from the cart; create a new user; sign in and sign out. Json Web Token is responsible for safety communication between server-side and client-side (authorization &authentication). Content Management System for handling with data (CRUD application). And brand new feature, chat. Where you can send a message to the selected person and delete your message by double click.
-Check this out by clicking the link below.
+A bit of Bookstore with real API. The Main functions allows us to add and remove book from the cart; create a new user; sign in and sign out. Json Web Token is responsible for safety communication between server-side and client-side (authorization &authentication). Content Management System for handling with data (CRUD application).
 
-#### [BookStore](https://bookstore01.herokuapp.com/)
